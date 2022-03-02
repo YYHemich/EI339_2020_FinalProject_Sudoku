@@ -1,6 +1,6 @@
 This project contains all the source codes.
 
-There 6 packages and 1 utils in this projects.
+There are 6 packages and 1 utils in this projects.
   |
   |------ numpynet -- My CNN deep learning layers implemented by numpy.
   |                |
@@ -30,7 +30,7 @@ There 6 packages and 1 utils in this projects.
   |------ utils.py -- I provided a result recorder in this file with some other tools.
   |
 
-There 4 executable python files.
+There are 4 executable python files.
   |
   |------ train_numpynet.py
   |
